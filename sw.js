@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mindful-v18';
+const CACHE_NAME = 'mindful-v19';
 const ASSETS = [
   './',
   './index.html',
